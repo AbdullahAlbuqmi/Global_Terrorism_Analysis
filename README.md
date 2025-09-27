@@ -1,7 +1,7 @@
 # Global Terrorism Dashboard
 
-An interactive data exploration and visualization dashboard built with *Streamlit, analyzing the **Global Terrorism Database (GTD)*.  
-The project includes *Exploratory Data Analysis (EDA), **geospatial visualizations, and **interactive filters* to uncover patterns in global terrorist attacks (location, time, attack types, targets, and casualties).
+An interactive data exploration and visualization dashboard built with *Streamlit*, analyzing the *Global Terrorism Database (GTD)*.  
+The project includes *Exploratory Data Analysis (EDA)*, *geospatial visualizations*, and *interactive filters* to uncover patterns in global terrorist attacks (location, time, attack types, targets, and casualties).
 
 ---
 
@@ -48,6 +48,8 @@ The project includes *Exploratory Data Analysis (EDA), **geospatial visualizatio
    # Team Members
 
       This project was developed as part of Week 4 Project at Tuwaiq Academy by:
-	         •	Abdullah Albuqmi
-	         •	Khalid Khubrani
-	         •	Noura bint Daham
+   
+       •	Abdullah Albuqmi
+       •	Khalid Khubrani
+       •	Noura bint Daham
+
