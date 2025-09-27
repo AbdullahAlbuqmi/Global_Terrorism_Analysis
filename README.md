@@ -47,9 +47,10 @@ The project includes *Exploratory Data Analysis (EDA)*, *geospatial visualizatio
 
    # Team Members
 
-      This project was developed as part of Week 4 Project at Tuwaiq Academy by:
+      This project was developed as part of Week 3 Project at Tuwaiq Academy by:
    
        •	Abdullah Albuqmi
        •	Khalid Khubrani
        •	Noura bint Daham
+
 
